@@ -1,0 +1,9 @@
+{
+  "name": "@wearespindle/eslint-config-spindle",
+  "version": "1.0.0",
+  "description": "Devhouse Spindle eslint config",
+  "main": "index.json",
+  "repository": "git@gitlab.wearespindle.com:frontend/playground/eslint-config-spindle.git",
+  "author": "Peter Uittenbroek <peter.uittenbroek@wearespindle.com>",
+  "license": "MIT"
+}
